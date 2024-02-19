@@ -1,0 +1,48 @@
+.PassengerList {
+    font-family: Arial, sans-serif;
+  }
+  
+  .PassengerList h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .PassengerList table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .PassengerList th,
+  .PassengerList td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .PassengerList th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .PassengerList tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .PassengerList tbody tr:hover {
+    background-color: #d8f1d8;
+  }
+  
+  .PassengerList td {
+    color: #555;
+  }
+  
+  .PassengerList a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .PassengerList a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,19 @@
+.GenderChart {
+    text-align: center;
+  }
+  
+  .GenderChart h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .GenderChart .chart-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .GenderChart .chart {
+    margin-top: 20px;
+  }
+  
